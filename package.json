@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mercadopago-checkout",
+  "version": "1.0.0",
+  "description": "Integration with Mercado Pago SDK v2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mercadopago": "^2.0.15"
+  }
+}
